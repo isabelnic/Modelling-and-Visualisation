@@ -1,14 +1,14 @@
-For checkpoint 3 there are 2 .py files:
+# For checkpoint 3 there are 2 .py files:
 poisson3d.py and cahn-hilliard.py
 
-For cahn-hilliard.py:
+## For cahn-hilliard.py:
 1. Run the file in the terminal following the starting perturbation for phi which can be 
     0, 0.5, -0.5 or other.
 2. An animation should start once the code starts running.
 3. At the end of the run the code will save a file of how the free energy changes over 
     the iterations in the simulation.
 
-For poisson3d.py:
+## For poisson3d.py:
 1. Run the file in the terminal following the simulation dimension (N fro example 50 or 100), simulation method,
 (method, options = jacobian, gauss, sor) and then the field type (field_type, options = electric or 
 magnetic).
